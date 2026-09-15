@@ -8,6 +8,8 @@
 
 
 Respostas do Questionário
+
+
 a) Qual algoritmo realizou o menor número de comparações para 10 elementos?
 O Insertion Sort, com 27 comparações. Em seguida vieram o Quick Sort (29), o Bubble Sort (44) e o Selection Sort (45).
 
